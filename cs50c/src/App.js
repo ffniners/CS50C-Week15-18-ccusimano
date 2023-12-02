@@ -5,7 +5,7 @@ import ProjectCards from './components/projectCards/projectCards';
 function App() {
   return (
     <div className="App">
-      {/*
+      {/*d
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
